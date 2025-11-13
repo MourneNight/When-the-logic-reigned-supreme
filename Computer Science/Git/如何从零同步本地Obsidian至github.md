@@ -28,8 +28,19 @@ git config --global user.email "email"
 
 ***Git临时代理***
 ```bash
+#在 export 后加 --global 设置全局
+
+#终端
 export http_proxy=http://proyAddress:port
 export https_proxy=http://proxyAddress:port
+
+#Git
+git config --global http.proxy http://proyAddress:port
+git config --global https.proxy http://proyAddress:port
+
+#删除 Git 代理
+git config --global --unset http.proxy
+git config --global --unset https.proxy
 ```
 
 ***本地初始化Git***
