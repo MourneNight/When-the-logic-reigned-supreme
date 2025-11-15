@@ -1,6 +1,7 @@
 ***来自https://www.reddit.com/r/neovim/comments/15j87k7/lazyvim_setting_transparent_background/***
-创建一个 `~/.config/nvim/lua/plugins/colorscheme.lua`
-包含:
+
+1. 创建一个 `~/.config/nvim/lua/plugins/colorscheme.lua`
+2. 包含:
 ```
 return {
 {
