@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "49ca8f7e24206968",
+        "id": "5bdccd922f7d99a3",
         "type": "tabs",
         "children": [
           {
-            "id": "45d5ad56e8463f50",
+            "id": "093096268fbaad0f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Computer Science/ProgrammingLanguage/C&CPP/Ebooks&Notes/C Primer Plus 第6版 中文版 ([美]史蒂芬·普拉达(Stephen Prata)).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "C Primer Plus 第6版 中文版 ([美]史蒂芬·普拉达(Stephen Prata))"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -176,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb852608d584821f",
+  "active": "63754b9b6b36c058",
   "lastOpenFiles": [
     "Computer Science/Git/如何从零同步本地Obsidian至github.md",
     "Computer Science/ArchLinux/Error/无法访问AUR.md",
