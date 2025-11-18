@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5bdccd922f7d99a3",
+        "id": "11a123046eec2591",
         "type": "tabs",
         "children": [
           {
-            "id": "093096268fbaad0f",
+            "id": "a14ba81df331d92e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Git/如何从零同步本地Obsidian至github.md",
+                "file": "Computer Science/ArchLinux/未命名/7z命令行.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何从零同步本地Obsidian至github"
+              "title": "7z命令行"
             }
           }
         ]
@@ -178,9 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "093096268fbaad0f",
+  "active": "a14ba81df331d92e",
   "lastOpenFiles": [
     "Computer Science/Git/如何从零同步本地Obsidian至github.md",
+    "Computer Science/ArchLinux/未命名/7z命令行.md",
+    "Computer Science/ArchLinux/未命名",
     "Computer Science/ArchLinux/Error/无法访问AUR.md",
     "Computer Science/ArchLinux/配置/Lazyvim背景透明.md",
     "Computer Science/ArchLinux/配置",
@@ -192,8 +194,6 @@
     "Computer Science/ProgrammingLanguage/C&CPP/Ebooks&Notes/C Primer Plus 第6版 中文版 ([美]史蒂芬·普拉达(Stephen Prata)).pdf",
     "Computer Science/ProgrammingLanguage/C&CPP/Ebooks&Notes",
     "Computer Science/ProgrammingLanguage/Ruby/Ebooks&Notes",
-    "Computer Science/ProgrammingLanguage/Ruby",
-    "Computer Science/ProgrammingLanguage/C&CPP",
-    "未命名.md"
+    "Computer Science/ProgrammingLanguage/Ruby"
   ]
 }
