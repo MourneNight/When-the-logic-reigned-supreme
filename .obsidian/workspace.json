@@ -20,6 +20,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "91e34bbb183fe367",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14b181364a109ca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/ProgrammingLanguage/C&CPP/Ebooks&Notes/C Primer Plus 笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C Primer Plus 笔记"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "777c195181713107",
@@ -162,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a14ba81df331d92e",
+  "active": "14b181364a109ca5",
   "lastOpenFiles": [
+    "Computer Science/ProgrammingLanguage/C&CPP/Ebooks&Notes/C Primer Plus 第6版 中文版 ([美]史蒂芬·普拉达(Stephen Prata)).pdf",
+    "Computer Science/ProgrammingLanguage/C&CPP/Ebooks&Notes/C Primer Plus 笔记.md",
     "Computer Science/Git/如何从零同步本地Obsidian至github.md",
     "Computer Science/ArchLinux/未命名/7z命令行.md",
     "Computer Science/ArchLinux/未命名",
@@ -189,7 +213,6 @@
     "Computer Science/ArchLinux",
     "Computer Science/ProgrammingLanguage/Ruby/Ebooks&Notes/Ruby基础教程(第5版) ([日]高桥征义 后藤裕藏) (Z-Library).pdf",
     "Code/C&CPP/小贴士/Gcc命令.md",
-    "Computer Science/ProgrammingLanguage/C&CPP/Ebooks&Notes/C Primer Plus 第6版 中文版 ([美]史蒂芬·普拉达(Stephen Prata)).pdf",
     "Computer Science/ProgrammingLanguage/C&CPP/Ebooks&Notes",
     "Computer Science/ProgrammingLanguage/Ruby/Ebooks&Notes",
     "Computer Science/ProgrammingLanguage/Ruby"
