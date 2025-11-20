@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "777c195181713107",
@@ -164,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63754b9b6b36c058",
+  "active": "0428d94e987db161",
   "lastOpenFiles": [
     "Computer Science/ArchLinux/配置/Lazyvim背景透明.md",
     "Computer Science/ArchLinux/配置/使用TLP提高续航能力.md",
