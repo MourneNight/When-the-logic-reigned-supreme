@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/宋浩/Notes/隐函数求导对数求导.md",
+                "file": "Computer Science/ArchLinux/配置/Lazyvim背景透明.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "隐函数求导对数求导"
+              "title": "Lazyvim背景透明"
+            }
+          },
+          {
+            "id": "b3883b467968e928",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec113f61159b9fd1",
+  "active": "b3883b467968e928",
   "lastOpenFiles": [
-    "未命名.md",
     "Math/宋浩/Notes/隐函数求导对数求导.md",
+    "未命名.md",
     "Math/宋浩/Notes",
     "Math/宋浩",
     "Math",
