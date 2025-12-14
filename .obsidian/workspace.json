@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2468b57c88ad7bbe",
+        "id": "b026e671ee1fc1e0",
         "type": "tabs",
         "children": [
           {
-            "id": "ec113f61159b9fd1",
+            "id": "9b79c97fb966f279",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/ArchLinux/配置/Lazyvim背景透明.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lazyvim背景透明"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "777c195181713107",
@@ -178,8 +175,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec113f61159b9fd1",
+  "active": "9b79c97fb966f279",
   "lastOpenFiles": [
+    "Computer Science/ArchLinux/配置/Lazyvim背景透明.md",
     "Math/宋浩/Notes/隐函数求导对数求导.md",
     "未命名.md",
     "Math/宋浩/Notes",
@@ -188,7 +186,6 @@
     "Computer Science/ProgrammingLanguage/C&CPP/Ebooks&Notes/C Primer Plus 第6版 中文版 ([美]史蒂芬·普拉达(Stephen Prata)).pdf",
     "Computer Science/ProgrammingLanguage/C&CPP/Ebooks&Notes/C Primer Plus 笔记.md",
     "Computer Science/ArchLinux/配置/使用TLP提高续航能力.md",
-    "Computer Science/ArchLinux/配置/Lazyvim背景透明.md",
     "Computer Science/Git/如何从零同步本地Obsidian至github.md",
     "Computer Science/ArchLinux/未命名/7z命令行.md",
     "Computer Science/ArchLinux/未命名",
