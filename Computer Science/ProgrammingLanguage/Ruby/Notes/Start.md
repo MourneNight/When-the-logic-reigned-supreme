@@ -21,10 +21,10 @@ say_hi "chris"
 say_hi
 ```
 ***解释***
-initialize,say_hi :  方法名
-names ： 参数
-#{name} ；是ruby向字符串中插入内容的方式，{}内的内容会转换为字符串，后替换至外面的字符串
-names = "World"： 表示未提供则使用默认参数World
+**initialize,say_hi** :  方法名
+**names** ： 参数
+**#{name}** ：是ruby向字符串中插入内容的方式，{}内的内容会转换为字符串，后替换至外面的字符串
+**names = "World"**： 表示未提供则使用默认参数World
 
 ## 定义一个类
 ```ruby
@@ -77,8 +77,24 @@ class Greeter
 end
 ```
 ***解释***
-MegaGreeter：类名
-initialize：类的构造方法，使用new创建对象时自动调用，常用于初始化对象属性，设置默认值，关键字传递
-@name：实例变量，可供该类中所有方法使用。
-attr_accessor：定义了两个新方法，name用于获取值，name=用于设置值
+**MegaGreeter**：类名
+**initialize**：类的构造方法，使用new创建对象时自动调用，常用于初始化对象属性，设置默认值，关键字传递
+**@name**：实例变量，可供该类中所有方法使用。
+**attr_accessor**：定义了两个新方法，name用于获取值，name=用于设置值
 
+## 循环和迭代
+```ruby
+@names.each do |name|
+  puts "Hello #{name}!"
+end
+```
+***解释***
+**each**：each是一个方法，接受并对列表中每个元素执行该代码块
+
+
+### 剧本开篇？机翻
+```ruby
+if __FILE__ == $0
+```
+***解释***
+**__FILE__**：mo fa b
