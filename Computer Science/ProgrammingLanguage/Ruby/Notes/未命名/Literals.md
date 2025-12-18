@@ -47,5 +47,28 @@
 **i**必须于**r**后
 ### String
 #### Escaoe Sequences
-
+全部转义序列：
+```ruby
+\a             响铃（bell），ASCII 07h (BEL)        # 发出终端蜂鸣声
+\b             退格（backspace），ASCII 08h (BS)      # 光标后退一格
+\t             水平制表符（horizontal tab），ASCII 09h (TAB)  # Tab 键
+\n             换行符（newline / line feed），ASCII 0Ah (LF)   # 新起一行
+\v             垂直制表符（vertical tab），ASCII 0Bh (VT)
+\f             换页符（form feed），ASCII 0Ch (FF)    # 打印机换页
+\r             回车符（carriage return），ASCII 0Dh (CR)  # 光标回到行首
+\e             Escape 字符，ASCII 1Bh (ESC)           # 终端控制序列开头
+\s             空格（space），ASCII 20h (SPC)
+\\             反斜杠本身，\
+\nnn           八进制位模式，其中 nnn 是 1-3 位八进制数字（[0-7]）
+\xnn           十六进制位模式，其中 nn 是 1-2 位十六进制数字（[0-9a-fA-F]）
+\unnnn         Unicode 字符，其中 nnnn 恰好是 4 位十六进制数字（[0-9a-fA-F]）
+\u{nnnn ...}   一个或多个 Unicode 字符，每个 nnnn 是 1-6 位十六进制数字（[0-9a-fA-F]）
+\cx 或 \C-x    控制字符（control character），x 是可打印的 ASCII 字符
+\M-x           Meta 字符，x 是可打印的 ASCII 字符（最高位设为 1）
+\M-\C-x        Meta 控制字符，x 是可打印的 ASCII 字符
+\M-\cx         同上
+\c\M-x         同上
+\c? 或 \C-?    Delete 字符，ASCII 7Fh (DEL)
+\<newline>     续行符（continuation line），表示空字符串（即字符串可以跨多行写，换行处不产生字符）
+```
 
