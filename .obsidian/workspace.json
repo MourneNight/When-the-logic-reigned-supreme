@@ -179,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb852608d584821f",
+  "active": "0117b63df7dab2b8",
   "lastOpenFiles": [
     "Computer Science/ProgrammingLanguage/C&CPP/C++_Notes/DP动态规划.md",
     "Computer Science/ProgrammingLanguage/C&CPP/C++_Notes/DFS深度优先搜索.md",
