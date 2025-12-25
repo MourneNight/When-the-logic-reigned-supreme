@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +181,9 @@
   },
   "active": "e3691bd7d72b41b8",
   "lastOpenFiles": [
-    "Computer.md",
+    "Computer-Science/ProgrammingLanguage/Ruby/Notes/wiki/Literals.md",
     "Computer-Science/Artificial-intelligence/人工智能课程笔记.md",
+    "Computer.md",
     "Computer Science/Pictures/考点.png",
     "Computer-Science/Pictures/kaodian.png",
     "Computer Science/Pictures/Image_1766639973442.png",
@@ -190,7 +192,6 @@
     "Computer-Science/Artificial-intelligence",
     "Computer-Science/ProgrammingLanguage/C&CPP/C++_Notes/DP动态规划.md",
     "Computer-Science/ProgrammingLanguage/C&CPP/C++_Notes/DFS深度优先搜索.md",
-    "Computer-Science/ProgrammingLanguage/Ruby/Notes/wiki/Literals.md",
     "Computer-Science/ProgrammingLanguage/Ruby/Notes/Ruby in Twenty Minutes.md",
     "Computer-Science/ProgrammingLanguage/Ruby/Notes/Error/Pry_less.md",
     "Computer-Science/Git/如何从零同步本地Obsidian至github.md",
