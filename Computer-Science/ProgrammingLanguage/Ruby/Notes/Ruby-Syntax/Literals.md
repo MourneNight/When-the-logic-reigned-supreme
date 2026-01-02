@@ -187,7 +187,9 @@ h = { x:, y: }
 4. 回车符，ASCII 0Dh（CR）
 5. 水平制表符，ASCII 09h（TAB）
 6. 垂直制表符，ASCII 0Bh（VT）
-
+使用反斜杠转义空格字符，使其成为单词的一部分
+%W允许使用转义序列，但其续行是不被允许使用的，因其会被解释为转义换行符
+***%i and %I：Symbol-Array Literals
 
 
 
