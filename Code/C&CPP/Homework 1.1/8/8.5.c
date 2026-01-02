@@ -1,3 +1,7 @@
+/*本代码无法实现功能，但我懒得改了，所以就这样吧
+* 其实还是可以实现加法的喵  */
+
+
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
