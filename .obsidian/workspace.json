@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer-Science/ProgrammingLanguage/Ruby/Notes/Ruby-Syntax/字面量（Literals）.md",
+                "file": "Code/C&CPP/小贴士/常用Gcc命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "字面量（Literals）"
+              "title": "常用Gcc命令"
             }
           }
         ]
@@ -180,9 +180,10 @@
   },
   "active": "46e93ac9521b3932",
   "lastOpenFiles": [
-    "Computer-Science/ProgrammingLanguage/Ruby/Notes/Ruby in Twenty Minutes.md",
     "Computer-Science/ProgrammingLanguage/Ruby/Notes/Ruby-Syntax/字面量（Literals）.md",
     "Computer-Science/ProgrammingLanguage/Ruby/Notes/此部分笔记说明.md",
+    "Computer-Science/ProgrammingLanguage/Ruby/Notes/Error/Pry_less.md",
+    "Computer-Science/ProgrammingLanguage/Ruby/Notes/Ruby in Twenty Minutes.md",
     "Computer-Science/Markdown语法.md",
     "Computer-Science/ProgrammingLanguage/C&CPP/C_Notes/随机数生成.md",
     "Computer-Science/Linux/一些软件使用/Lazyvim快捷键.md",
@@ -211,7 +212,6 @@
     "Computer Science/Pictures/Image_1766639973442.png",
     "Computer-Science/Pictures",
     "Computer-Science/Artificial-intelligence",
-    "Computer-Science/ProgrammingLanguage/Ruby/Notes/Error/Pry_less.md",
     "Computer-Science/Git/如何从零同步本地Obsidian至github.md",
     "Computer Science/ProgrammingLanguage/Ruby/Notes/未命名/Literals.md",
     "Computer-Science/ProgrammingLanguage/Ruby/Notes/Error",
