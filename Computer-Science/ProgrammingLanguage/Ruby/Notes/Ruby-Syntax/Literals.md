@@ -182,8 +182,12 @@ h = { x:, y: }
 该字面量可以将字符串数组写成空格分隔的单词
 以下会被视为空格
 1. 空格，ASCII 20h（SPC）
-2. ，ASCII 0ch（FF）
-3. 
+2. 换页，ASCII 0Ch（FF）
+3. 换行符，ASCII 0Ah（LF）
+4. 回车符，ASCII 0Dh（CR）
+5. 水平制表符，ASCII 09h（TAB）
+6. 垂直制表符，ASCII 0Bh（VT）
+
 
 
 
